@@ -22,3 +22,8 @@
         
     </body>
 </html>
+
+body { 
+background-color: #DFF557;
+color: #9147D7;
+font-family: arial, helvetica, sans-serif;
